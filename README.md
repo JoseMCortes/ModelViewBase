@@ -6,6 +6,6 @@ The ViewModels offer a common contract/interface to save/restore instances using
 
 Fragments bind their user interfaces with changes on the ViewModels using DataBinding (LiveData). When a data is changed (simulated) in the repository it will be automatically received by Fragments, updating their UI/Layouts.
 
-![Blockchain](https://user-images.githubusercontent.com/4429438/44645574-635efe00-a9d8-11e8-8907-af2706288c5a.png)
+![Overview](https://github.com/JoseMCortes/ModelViewBase/blob/master/docs/architecture.png)
 
  
